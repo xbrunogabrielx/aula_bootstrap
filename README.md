@@ -1,2 +1,3 @@
-# aula_bootstrap
-conhecendo bootstrap
+# Calculadora_javascript
+Primeira calculadora usando apenas javascript.
+
